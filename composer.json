@@ -1,0 +1,12 @@
+{
+  "name": "santimora/dice-php",
+  "description": "PHP library for tabletop RPG mechanics", 
+  "require": {
+    "php": ">=7.2.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "RPG\\": "src/RPG/"
+    }
+  }
+}
