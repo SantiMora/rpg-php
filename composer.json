@@ -1,5 +1,5 @@
 {
-  "name": "santimora/dice-php",
+  "name": "santimora/rpg-php",
   "description": "PHP library for tabletop RPG mechanics", 
   "require": {
     "php": ">=7.2.0"
